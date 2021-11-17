@@ -1,0 +1,116 @@
+.logo {
+  display: block;
+  margin: auto;
+  height: auto;
+  width: 250px;
+}
+
+.nav {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: rgba(243, 243, 243, 0.87);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #17b8b1;
+}
+
+a {
+  color: #17b8b1;
+  text-decoration: none;
+  background-color: transparent;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #10cfc6 !important;
+  text-decoration: none;
+}
+
+.btn-link:hover {
+  color: #17b8b1;
+  text-decoration: none;
+}
+
+.btn-link:focus {
+  text-decoration: none;
+}
+
+.btn:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.btn-link {
+  font-weight: bold;
+  color: #6c757d;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.card {
+  text-align: center;
+}
+
+.bg-light {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: rgba(243, 243, 243, 0.87);
+}
+
+.display-4 {
+  color: #17b8b1;
+}
+
+.centrar {
+  text-align: center;
+}
+
+.derecha {
+  text-align: right;
+}
+
+.btn-primary {
+  background-color: #17b8b1 !important;
+  border-color: #10cfc6 !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.page-link {
+  color: #17b8b1;
+}
+
+.news {
+  text-align: center;
+  text-transform: uppercase;
+  color: #17b8b1;
+}
+
+.btn-outline-success {
+  background-color: #17b8b1 !important;
+  border-color: #10cfc6 !important;
+  color: white;
+}
+
+.navbar-text {
+  font-style: italic;
+}
+
+.form-control {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+  border-color: #10cfc6 !important;
+}
+
+.btn-outline-info {
+  background-color: #17b8b1 !important;
+  border-color: #10cfc6 !important;
+  color: white;
+}
+
+.custom-select {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+  border-color: #10cfc6 !important;
+}
+/*# sourceMappingURL=estilos.css.map */
